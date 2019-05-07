@@ -8,4 +8,10 @@ sudo apt install libncurses5-dev
 ```
 
 ## this is what it look like :
-![alt text]
+the first turn :
+
+![alt text](https://raw.githubusercontent.com/Tweek-Tweak/matchstick/master/first_turn.png)
+
+the last turn :
+
+![alt text](https://raw.githubusercontent.com/Tweek-Tweak/matchstick/master/last_turn.png)
